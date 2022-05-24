@@ -1,0 +1,8 @@
+{"sesstings":
+{"name":"#DayLight",
+"Name_Insta": "Hatem alotebi",
+"bio": "Maybe Rayan",
+"MSG": "Sucessfully Claimed",
+"Webhook": "Here",
+"url_imge": ""
+}}
